@@ -1,0 +1,13 @@
+{
+  "test1.html": {
+    "last_updated": "2026-06-14T00:00:00",
+    "url": "https://www.mgstage.com/product/product_detail/300MIUM-382/",
+    "run_test": true,
+    "result_file": "test1.json",
+    "description": "MGStage 标准测试用例",
+    "ctx": {
+      "number": "300MIUM-382",
+      "short_number": "MIUM-382"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "test1.html": {
+    "last_updated": "2026-06-14T00:00:00",
+    "url": "https://www.javbus.com/SSIS-001",
+    "run_test": true,
+    "result_file": "test1.json",
+    "description": "Javbus 标准测试用例",
+    "ctx": {
+      "number": "SSIS-001"
+    }
+  }
+}

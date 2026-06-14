@@ -1,0 +1,12 @@
+{
+  "test1.html": {
+    "last_updated": "2026-06-14T00:00:00",
+    "url": "https://adult.contents.fc2.com/article/1723984/",
+    "run_test": true,
+    "result_file": "test1.json",
+    "description": "FC2 标准测试用例",
+    "ctx": {
+      "number": "FC2-1723984"
+    }
+  }
+}
